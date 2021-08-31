@@ -1,0 +1,25 @@
+{
+    "name": "tenetup/compression",
+    "description": "this package use for compress your image",
+    "type": "library",
+    "require": {
+        "php": "^7.3|^8.0",
+        "illuminate/config": "^8.0",
+        "illuminate/support": "^8.0",
+        "ext-curl": "*",
+        "ext-fileinfo": "*",
+        "ext-json": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "TenetUp\\Compression\\": "src"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "majid behzadnasab",
+            "email": "bhz.majid@gmail.com"
+        }
+    ]
+}
