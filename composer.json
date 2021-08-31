@@ -3,8 +3,7 @@
     "description": "this package use for compress your image",
     "type": "library",
     "require": {
-        "php": "^7.3|^8.0",
-        "illuminate/support": ">=v7.30.0"
+        "php": "^7.3|^8.0"
     },
     "autoload": {
         "psr-4": {
